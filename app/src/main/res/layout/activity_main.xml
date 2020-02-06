@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+tools:context=".MainActivity">
+
+
+
+    <TextView
+        android:id="@+id/Numbers"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/NumbersCatagory"
+        android:text="Numbers" />
+    <TextView
+        android:id="@+id/Colors"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/ColorsCatagory"
+        android:text="Colors" />
+    <TextView
+        android:id="@+id/FamilyMembers"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/FamilyMembersCatagory"
+        android:text="Family Members" />
+    <TextView
+        android:id="@+id/BodyParts"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/BodyPartsCatagory"
+        android:text="Body Parts" />
+    <TextView
+        android:id="@+id/Shapes"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/ShapesCatagory"
+        android:text="Shapes" />
+    <TextView
+        android:id="@+id/Days_months"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/Days_MonthsCatagory"
+        android:text="Days Months" />
+    <TextView
+        android:id="@+id/TopWords"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/TopWordsCatagory"
+        android:text="Top Words" />
+    <TextView
+        android:id="@+id/Greetings"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/GreetingsCatagory"
+        android:text="Greetings" />
+    <TextView
+        android:id="@+id/phrases"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/PharsesCatagory"
+        android:text="Phrases" />
+</LinearLayout>
+
+
+</ScrollView>

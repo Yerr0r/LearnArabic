@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ee8572</color>
+    <color name="colorPrimaryDark">#35495e</color>
+    <color name="colorAccent">#347474</color>
+    <color name = "BodyPartsCatagory">#05dfd7</color>
+    <color name = "ColorsCatagory">#ec7373</color>
+    <color name = "Days_MonthsCatagory">#d8b5b5</color>
+    <color name = "FamilyMembersCatagory">#ffe196</color>
+    <color name = "GreetingsCatagory">#ffae8f</color>
+    <color name = "NumbersCatagory">#ff677d</color>
+    <color name = "PharsesCatagory">#cd6684</color>
+    <color name="white">#FFFFFF</color>
+    <color name = "ShapesCatagory">#6f5a7e</color>
+    <color name = "TopWordsCatagory">#fdd365</color>
+
+
+</resources>
